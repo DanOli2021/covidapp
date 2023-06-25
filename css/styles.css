@@ -1,0 +1,106 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #8b0000;
+    /* Color guinda */
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #8b0000;
+    /* Color guinda */
+}
+
+.form-group label {
+    color: #8b0000;
+    /* Color guinda */
+    font-weight: bold;
+}
+
+.form-control {
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #8b0000;
+    /* Color guinda */
+    border-color: #8b0000;
+    /* Color guinda */
+}
+
+.btn-primary:hover {
+    background-color: #800000;
+    /* Color guinda más oscuro */
+    border-color: #800000;
+    /* Color guinda más oscuro */
+}
+
+.register-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register-link a {
+    color: #8b0000;
+    /* Color guinda */
+    text-decoration: none;
+}
+
+
+body {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .android-button {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #3f51b5; /* Color primario de Android */
+    border-color: #3f51b5; /* Color primario de Android */
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .android-button:hover {
+    background-color: #303f9f; /* Color más oscuro al pasar el cursor */
+    border-color: #303f9f; /* Color más oscuro al pasar el cursor */
+  }
+  
+  .android-button:active {
+    background-color: #283593; /* Color aún más oscuro al hacer clic */
+    border-color: #283593; /* Color aún más oscuro al hacer clic */
+  }
+  
+  .android-button.secondary {
+    background-color: #e91e63; /* Color secundario de Android */
+    border-color: #e91e63; /* Color secundario de Android */
+  }
+  
+  .android-button.secondary:hover {
+    background-color: #c2185b; /* Color más oscuro al pasar el cursor */
+    border-color: #c2185b; /* Color más oscuro al pasar el cursor */
+  }
+  
+  .android-button.secondary:active {
+    background-color: #ad1457; /* Color aún más oscuro al hacer clic */
+    border-color: #ad1457; /* Color aún más oscuro al hacer clic */
+  }
